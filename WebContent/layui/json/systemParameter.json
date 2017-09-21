@@ -1,0 +1,14 @@
+{
+    "cmsName": "layui后台管理模版",
+    "version": "v1.0.1",
+    "author": "Ryan",
+    "homePage": "index.html",
+    "server": "windows",
+    "dataBase": "8.00.2039",
+    "maxUpload": "2M",
+    "userRights": "总管理员",
+    "description": "一套基于layui的cms模版，纯静态页面，不包含数据库",
+    "powerby": "copyright @2017 Ryan",
+    "record": "京ICP备14040xxx号-1",
+    "keywords": "layui模版"
+}
